@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="31.739" tests="6" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="webdriver.chrome.driver" value="/Users/chaitrabhat/Downloads/chromedriver 2"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/test-classes:/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/classes:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-1/selenium-java-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-1/selenium-chrome-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-1/selenium-remote-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-1/selenium-api-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12.jar:/Users/chaitrabhat/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/chaitrabhat/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/chaitrabhat/.m2/repository/org/checkerframework/checker-qual/2.5.2/checker-qual-2.5.2.jar:/Users/chaitrabhat/.m2/repository/com/google/errorprone/error_prone_annotations/2.2.0/error_prone_annotations-2.2.0.jar:/Users/chaitrabhat/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/chaitrabhat/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.17/animal-sniffer-annotations-1.17.jar:/Users/chaitrabhat/.m2/repository/com/squareup/okhttp3/okhttp/3.14.0/okhttp-3.14.0.jar:/Users/chaitrabhat/.m2/repository/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-1/selenium-edge-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-1/selenium-firefox-xpi-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-1/selenium-firefox-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-1/selenium-ie-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-1/selenium-opera-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-1/selenium-safari-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-1/selenium-support-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/chaitrabhat/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/chaitrabhat/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/chaitrabhat/.m2/repository/org/apache/logging/log4j/log4j-api/2.4/log4j-api-2.4.jar:/Users/chaitrabhat/.m2/repository/org/apache/logging/log4j/log4j-core/2.4/log4j-core-2.4.jar:/Users/chaitrabhat/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/chaitrabhat/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/chaitrabhat/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/chaitrabhat/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/chaitrabhat/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/chaitrabhat/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/chaitrabhat/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/surefire/surefirebooter3362078930851351798.jar /Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/surefire 2021-09-24T17-37-13_448-jvmRun1 surefire2693449025795803858tmp surefire_07648174239321191957tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/test-classes:/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/classes:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-1/selenium-java-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-1/selenium-chrome-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-1/selenium-remote-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-1/selenium-api-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/net/bytebuddy/byte-buddy/1.9.12/byte-buddy-1.9.12.jar:/Users/chaitrabhat/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/chaitrabhat/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/chaitrabhat/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/chaitrabhat/.m2/repository/org/checkerframework/checker-qual/2.5.2/checker-qual-2.5.2.jar:/Users/chaitrabhat/.m2/repository/com/google/errorprone/error_prone_annotations/2.2.0/error_prone_annotations-2.2.0.jar:/Users/chaitrabhat/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/chaitrabhat/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.17/animal-sniffer-annotations-1.17.jar:/Users/chaitrabhat/.m2/repository/com/squareup/okhttp3/okhttp/3.14.0/okhttp-3.14.0.jar:/Users/chaitrabhat/.m2/repository/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-1/selenium-edge-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-1/selenium-firefox-xpi-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-1/selenium-firefox-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-1/selenium-ie-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-1/selenium-opera-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-1/selenium-safari-driver-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-1/selenium-support-4.0.0-alpha-1.jar:/Users/chaitrabhat/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/chaitrabhat/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/chaitrabhat/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/chaitrabhat/.m2/repository/org/apache/logging/log4j/log4j-api/2.4/log4j-api-2.4.jar:/Users/chaitrabhat/.m2/repository/org/apache/logging/log4j/log4j-core/2.4/log4j-core-2.4.jar:/Users/chaitrabhat/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/chaitrabhat/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/chaitrabhat/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/chaitrabhat/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/chaitrabhat/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/chaitrabhat/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/chaitrabhat/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/chaitrabhat"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject/target/surefire/surefirebooter3362078930851351798.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="15.0.2+7-27"/>
+    <property name="user.name" value="chaitrabhat"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.13.6"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="browser" value="chrome"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/chaitrabhat/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/k0/z_wt679s14b3yxq9zsxhc1_c0000gn/T/"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="user.dir" value="/Users/chaitrabhat/eclipse-workspaceNew/E2EProject"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/chaitrabhat/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15.0.2+7-27"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="Academy.AppTest" time="0.007">
+    <system-out><![CDATA[chrome
+]]></system-out>
+  </testcase>
+  <testcase name="validateAppTitle" classname="Academy.ValidateTitleTest" time="0.032">
+    <failure message="expected [FEATURED123COURSES] but found [FEATURED COURSES]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected [FEATURED123COURSES] but found [FEATURED COURSES]
+	at Academy.ValidateTitleTest.validateAppTitle(ValidateTitleTest.java:41)
+]]></failure>
+    <system-out><![CDATA[chrome
+chrome
+]]></system-out>
+    <system-err><![CDATA[StaSSrtttairatnrigtn iCgn hgCr hormCohemDrreoDimvreeiDvrr ei9rv3 e9.r03 9..340..05.47455777.776..66333   (((ffffff555ccc000dddaaa222eeeccc00aa0dadeedaaeeeaded5d5555555005e0ee666cc7c7e7ee99898844141717d7dadaaccc777777dd9d98988aa-a--rrerefefsfs/s/b/brbarranacnnchchh--h-heehaadedsas//d44s557/7747@5{@#{71#711@{1#3151}3)5 }o)n p 3oo5rn}t)   p1oo4nr7t 1 p22o
+1O4rn3tl 2y3 
+8lO7on3cla
+yOl n llcooycn anlloe ccctaoilno ncneosc natnreiceo tnaislo lnaosrw eae dre.a 
+lPlalolewlaeoswdee .ds
+.ePe
+lP elhatesatespes  :ss/ee/ece h hrhtottmtpepssd:r:/i///vcechhrr.rocomhmereddorrmiiivuevrme.r.c.ohcrrhgor/msoiemucimu.umor.riogtr/ygs-/ecscounresiictudyer-rictaotyni-socinodnse srfioadret riasoutnisgg ofneossrt  ifsoourgn gsse uogsngte ikosnetsei pooinnsn g ko enCe hpkrieonemgpe iDCrnhigr oveCmerhr DsoramifeveDer.r
+i vCshearrf oems.ae
+DfCreh.irv
+oeCmrher owDmaresi Dvrseitrva retrw aewsad s ss tusatcractreetsdse dfs uulsclucyce.cs
+essfsuflluyl.l
+y.
+Sep 24, 2021 5:37:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Sep 24, 2021 5:37:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="validateHeader" classname="Academy.ValidateTitleTest" time="0.152"/>
+  <testcase name="ValidateAppNavigation" classname="Academy.ValidateNavigationBarTest" time="0.079">
+    <system-err><![CDATA[Sep 24, 2021 5:37:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="basePageNavigation[nonrestricteduser@cw.com, 123456, non restricted user](1)" classname="Academy.HomePageTest" time="8.054"/>
+  <testcase name="basePageNavigation[restricteduser@cw.com, 123123, restricted user](2)" classname="Academy.HomePageTest" time="3.889"/>
+</testsuite>

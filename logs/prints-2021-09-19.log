@@ -1,0 +1,7 @@
+23:52:44.595 [TestNG-tests-3] INFO  resources.base - login is successful
+23:52:46.666 [TestNG-tests-3] INFO  resources.base - restricted user
+23:52:47.276 [TestNG-tests-3] INFO  resources.base - login is successful
+23:55:37.455 [TestNG-tests-3] INFO  resources.base - non restricted user
+23:55:37.941 [TestNG-tests-3] INFO  resources.base - login is successful
+23:55:41.427 [TestNG-tests-3] INFO  resources.base - restricted user
+23:55:41.891 [TestNG-tests-3] INFO  resources.base - login is successful

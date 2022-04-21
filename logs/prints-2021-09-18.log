@@ -1,0 +1,7 @@
+23:21:54.149 [TestNG-tests-4] INFO  resources.base - Driver is initialised
+23:22:00.572 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+23:22:00.910 [TestNG-tests-4] INFO  resources.base - Navigated to Home Page
+23:22:00.963 [TestNG-tests-4] INFO  resources.base - Text display is success
+23:22:03.859 [TestNG-tests-3] INFO  resources.base - non restricted user
+23:22:04.275 [TestNG-tests-3] INFO  resources.base - login is successful
+23:22:06.784 [TestNG-tests-3] INFO  resources.base - restricted user
